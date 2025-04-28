@@ -1,13 +1,58 @@
-# 👋 Hi, I’m Ibrahim Saada
+---
 
-- 👀 I’m interested in mobile app development, backend systems, and creating seamless user experiences.
-- 🌱 I’m currently learning advanced Flutter and improving my knowledge in backend technologies like ASP.NET.
-- 💞️ I’m looking to collaborate on projects that involve social media apps, real-time communication, or innovative mobile solutions.
-- 📫 How to reach me: ibrahimsaada99@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love diving into new technologies and enjoy a good coding challenge!
+👋 Hi, I'm Ibrahim Saada
 
-<!---
-IbrahimSaada/IbrahimSaada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate Software Developer with a strong focus on building scalable backend systems, high-quality mobile applications, and cloud-based solutions.
+
+
+---
+
+🚀 About Me
+
+🔥 Core Focus: Backend development with .NET Web API, mobile development with Flutter, and cloud integrations with AWS and Azure.
+
+📚 Currently Learning: System architecture best practices, advanced backend security, and machine learning integration.
+
+🛠️ Projects:
+
+Social media platforms with real-time communication features
+
+E-commerce systems with dynamic product handling and cloud infrastructure
+
+API services integrating modern DevOps and security standards
+
+
+🤝 Collaboration: Open to projects involving social apps, real-time chat, e-commerce platforms, or innovative backend services.
+
+✉️ Contact Me: ibrahimsaada99@gmail.com
+
+
+
+---
+
+🛠️ Skills
+
+      
+
+
+---
+
+📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IbrahimSaada&show_icons=true&theme=default&hide_border=true" alt="Ibrahim's GitHub Stats" />
+</p><p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahimSaada&theme=default&hide_border=true" alt="GitHub Streak" />
+</p><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimSaada&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+</p>
+---
+
+⚡ Fun Fact
+
+> I'm passionate about turning complex challenges into clean, elegant solutions — and I'm always eager to explore and master new technologies!
+
+
+
+
+---
